@@ -3,9 +3,10 @@
 - :point_right: Trabalho como desenvolvedor na Tecnologia de uma empresa privada no setor de Saúde Suplementar;
 - :pushpin: Atualmente trabalho como Full Stack usando as tecnologias **C# MVC, HTML, CSS, JavaScript, Bootstrap, SQL Server**...
 - :neckbeard: Estou estudando **ReactJS, NextJS, JavaScript, TypeScript e ambientes Cloud**
-- :cloud: Cursei **AWS Academy Cloud Foundation** pela **IFSP** (https://sjp.ifsp.edu.br/)
+- :computer: Graduado/Bacharelado em **Sistemas de Informação** pela **Unilago Rio Preto** (https://unilago.riopreto.br/)
+- :cloud: Cursei **AWS Academy Cloud Foundation** pela **IFSP Rio Preto** (https://sjp.ifsp.edu.br/)
 
-<h3> :scroll: Segue minhas páginas com mais detalhes </h3>
+<h3> :scroll: Minhas páginas com maiores detalhes e contatos</h3>
 
 <p align="left">
   <a href="https://julianoalexandre.com.br"><img alt="Website" src="https://img.shields.io/badge/Website-https://julianoalexandre.com.br-blue?style=flat-square&logo=firefox"></a>
