@@ -11,7 +11,7 @@
 <p align="left">
   <a href="https://julianoalexandre.com.br"><img alt="Website" src="https://img.shields.io/badge/Website-https://julianoalexandre.com.br-blue?style=flat-square&logo=firefox"></a>
   <a href="https://www.instagram.com/julianoriopreto/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-julianoriopreto-blue?style=flat-square&logo=instagram"></a>
-  <a href="https://www.twitter.com/julianoriopreto/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-julianoriopreto-blue?style=flat-square&logo=twitter"></a>
+  <a href="https://www.x.com/julianoriopreto/"><img alt="X" src="https://img.shields.io/badge/Twitter-julianoriopreto-blue?style=flat-square&logo=twitter"></a>
   
   ![](https://komarev.com/ghpvc/?username=julianoriopreto&style=flat-square&color=blue)
 </p>
