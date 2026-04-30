@@ -6,11 +6,12 @@
 - :computer: Graduado/Bacharelado em **Sistemas de Informação** pela **Unilago Rio Preto - SP** (https://unilago.riopreto.br/)
 - :cloud: Cursei **AWS Academy Cloud Foundation** pela **IFSP Rio Preto - SP** (https://sjp.ifsp.edu.br/)
 
-<h3> :scroll: Minhas páginas com maiores detalhes e contatos</h3>
+<h3> :scroll: Minhas páginas com mais detalhes e contatos</h3>
 
 <p align="left">
   <a href="https://julianoalexandre.com.br"><img alt="Website" src="https://img.shields.io/badge/Website-https://julianoalexandre.com.br-blue?style=flat-square&logo=firefox"></a>
-  <a href="https://www.instagram.com/julianoriopreto/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-julianoriopreto-blue?style=flat-square&logo=instagram"></a>
+  <a href="https://www.instagram.com/julianoriopreto/"><img alt="Instagram" src="[https://img.shields.io/badge/Instagram-julianoriopreto-blue?style=flat-square&logo=instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)"></a>
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
   <a href="https://www.x.com/julianoriopreto/"><img alt="X" src="https://img.shields.io/badge/Twitter-julianoriopreto-blue?style=flat-square&logo=twitter"></a>
   
   ![](https://komarev.com/ghpvc/?username=julianoriopreto&style=flat-square&color=blue)
