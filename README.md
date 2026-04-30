@@ -1,8 +1,8 @@
 ## Olá! 👋
 
 - :point_right: Sou desenvolvedor na Tecnologia de uma Empresa privada do setor de Saúde Suplementar;
-- :pushpin: Atualmente trabalho como Full Stack usando as Tecnologias **C# MVC, HTML, CSS, JavaScript, Bootstrap, SQL Server**...
-- :neckbeard: Estou estudando **ReactJS, NextJS, JavaScript, TypeScript e ambientes Cloud**
+- :pushpin: Atualmente trabalho como Full Stack usando as Tecnologias **C# MVC Core, HTML, CSS, JavaScript, Bootstrap, SQL Server, Oracle**...
+- :neckbeard: Sigo estudando **React, NextJS, TypeScript, ambientes Cloud e IA**
 - :computer: Graduado/Bacharelado em **Sistemas de Informação** pela **Unilago Rio Preto - SP** (https://unilago.riopreto.br/)
 - :cloud: Cursei **AWS Academy Cloud Foundation** pela **IFSP Rio Preto - SP** (https://sjp.ifsp.edu.br/)
 
